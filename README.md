@@ -1,3 +1,4 @@
 # Google_Advance_Data_Analytics
 
-This Repository consist of all the end project developed by me during my course in Google advance data analytics 
+This Repository consists of all the end projects developed by me during my course in Google advance data analytics 
+It includes capstone project and tiktok project  
